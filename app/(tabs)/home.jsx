@@ -4,7 +4,7 @@ import React from "react";
 const Home = () => {
   return (
     <View>
-      <Text>Home</Text>
+      <Text className="text-xl text-red-400 text-center p-8 m-2 justify-center flex align-items">HosteLite</Text>
     </View>
   );
 };
